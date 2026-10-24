@@ -34,4 +34,8 @@ Published with permission from Talemann as reported by the project maintainer. T
 
 ## Distribution
 
-The installable mod archive will be distributed separately through **GitHub Releases** after its contents are verified. No base-game files or Talemann installer are bundled here.
+The installable mod archive will be distributed separately through **GitHub Releases** after its contents and redistribution permissions are verified.
+
+### Stage41a test candidate
+
+The supplied Stage41a package includes a custom `dinput8.dll` based on Talemann 2.1.4 that **replaces** the DLL in the required 2.1.5 installation. Parity with private 2.1.5 fixes is unverified. The package's own validation notes say headset operation and the Stage41a LT prompt fix are **not yet confirmed**. Back up the working installation and treat this as experimental; do not assume it is a stable 1.0 release. No base-game files or Talemann installer are bundled here.
