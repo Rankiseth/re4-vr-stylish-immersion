@@ -2,8 +2,6 @@
 
 A community add-on for **Resident Evil 4 (2023) VR**, designed to be used with **Talemann's RE4 VR mod v2.1.5**.
 
-> **Status:** Repository documentation is being prepared. The installable Fluffy Mod Manager ZIP has **not yet been uploaded**. GitHub's green **Code → Download ZIP** button downloads repository source files, **not** the installable mod.
-
 ## Requirements
 
 1. A working installation of Resident Evil 4 (2023) on PC.
